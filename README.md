@@ -67,7 +67,7 @@ mini-ecommerce-backend/
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/udaynarendragudiguntla-hash/mini-ecommerce-backend.git
 
 cd mini-ecommerce-backend
 ```
